@@ -9,18 +9,18 @@ Utilizando-se de didática gamificada, até o momento o curso é composto por 3 
 #### 📚 Introdução ao Mundo da Programação
 
 #### 📚 Primeiros passos com o Python
-- Exercício Python #001 - [Deixando tudo pronto]()
-- Exercício Python #002 - [Respondendo ao usuário]()
+- Exercício Python #001 - [Deixando tudo pronto](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex001.py)
+- Exercício Python #002 - [Respondendo ao usuário](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex002.py)
 
 #### 📚 Tratando dados e fazendo contas
-- Exercício Python #003 - [Somando dois números]()
-- Exercício Python #004 - [Dissecando uma variável]()
-- Exercício Python #005 - [Antecessor e sucessor]()
-- Exercício Python #006 - [Dobro, triplo e raiz quadrada]()
-- Exercício Python #007 - [Média aritmética]()
-- Exercício Python #008 - [Conversor de medidas]()
-- Exercício Python #009 - [Tabuada]()
-- Exercício Python #010 - [Conversor de moedas]()
+- Exercício Python #003 - [Somando dois números](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex003.py)
+- Exercício Python #004 - [Dissecando uma variável](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex004.py)
+- Exercício Python #005 - [Antecessor e sucessor](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex005.py)
+- Exercício Python #006 - [Dobro, triplo e raiz quadrada](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex006.py)
+- Exercício Python #007 - [Média aritmética](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex007.py)
+- Exercício Python #008 - [Conversor de medidas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex008.py)
+- Exercício Python #009 - [Tabuada](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex009.py)
+- Exercício Python #010 - [Conversor de moedas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex010.py)
 - Exercício Python #011 - [Pintando parede]()
 - Exercício Python #012 - [Calculando descontos]()
 - Exercício Python #013 - [Reajuste salarial]()
