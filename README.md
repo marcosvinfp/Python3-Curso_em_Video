@@ -21,11 +21,11 @@ Utilizando-se de didática gamificada, até o momento o curso é composto por 3 
 - Exercício Python #008 - [Conversor de medidas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex008.py)
 - Exercício Python #009 - [Tabuada](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex009.py)
 - Exercício Python #010 - [Conversor de moedas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex010.py)
-- Exercício Python #011 - [Pintando parede]()
-- Exercício Python #012 - [Calculando descontos]()
-- Exercício Python #013 - [Reajuste salarial]()
-- Exercício Python #014 - [Conversor de temperaturas]()
-- Exercício Python #015 - [Aluguel de carros]()
+- Exercício Python #011 - [Pintando parede](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex011.py)
+- Exercício Python #012 - [Calculando descontos](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex012.py)
+- Exercício Python #013 - [Reajuste salarial](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex013.py)
+- Exercício Python #014 - [Conversor de temperaturas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex014.py)
+- Exercício Python #015 - [Aluguel de carros](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex015.py)
 
 #### 📚 Usando módulos do Python
 - Exercício Python #016 - [Quebrando um número]()
