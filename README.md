@@ -3,9 +3,10 @@ Curso de Python 3, ministrado pelo professor Gustavo Guanabara, disponível na p
 [Curso em Vídeo](https://www.cursoemvideo.com/) e em seu [canal no YouTube](https://www.youtube.com/@CursoemVideo).
 
 ## ⚙️ Estrutura do curso
-Utilizando-se de didática gamificada, até o momento o curso é composto por 3 'Mundos'. Sendo cada um com carga horária de 40 horas.
+Utiliza-se de didática gamificada e até o momento o curso é composto por 3 'Mundos'. Sendo cada um com carga horária de 40 horas.
 
 ### [🌍 Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
+
 #### 📚 Introdução ao Mundo da Programação
 
 #### 📚 Primeiros passos com o Python
@@ -28,16 +29,16 @@ Utilizando-se de didática gamificada, até o momento o curso é composto por 3 
 - Exercício Python #015 - [Aluguel de carros](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex015.py)
 
 #### 📚 Usando módulos do Python
-- Exercício Python #016 - [Quebrando um número]()
-- Exercício Python #017 - [Catetos e hipotenusa]()
-- Exercício Python #018 - [Seno, cosseno e tangente]()
-- Exercício Python #019 - [Sorteando um item na lista]()
-- Exercício Python #020 - [Sorteando uma ordem na lista]()
-- Exercício Python #021 - [Tocando um MP3]()
-- Exercício Python #022 - [Analisador de textos]()
-- Exercício Python #023 - [Separando dígitos de um número]()
-- Exercício Python #024 - [Verificando as primeiras letras de um texto]()
-- Exercício Python #025 - [Procurando uma string dentro de outra]()
+- Exercício Python #016 - [Quebrando um número](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex016.py)
+- Exercício Python #017 - [Catetos e hipotenusa](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex017.py)
+- Exercício Python #018 - [Seno, cosseno e tangente](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex018.py)
+- Exercício Python #019 - [Sorteando um item na lista](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex019.py)
+- Exercício Python #020 - [Sorteando uma ordem na lista](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex020.py)
+- Exercício Python #021 - [Tocando um MP3](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex021.py)
+- Exercício Python #022 - [Analisador de textos](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex022.py)
+- Exercício Python #023 - [Separando dígitos de um número](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex023.py)
+- Exercício Python #024 - [Verificando as primeiras letras de um texto](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex024.py)
+- Exercício Python #025 - [Procurando uma string dentro de outra](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex025.py)
 - Exercício Python #026 - [Primeira e última ocorrência de uma string]()
 - Exercício Python #027 - [Primeiro e último nome de uma pessoa]()
 
@@ -68,6 +69,7 @@ Utilizando-se de didática gamificada, até o momento o curso é composto por 3 
 - Exercício Python #043 - [Índice de Massa Corporal]()
 - Exercício Python #044 - [Gerenciador de pagamentos]()
 - Exercício Python #045 - [GAME: Pedra, Papel e Tesoura]()
+
 #### 📚 Repetições em Python (for)
 - Exercício Python #046 - [Contagem regressiva]()
 - Exercício Python #047 - [Contagem de pares]()
