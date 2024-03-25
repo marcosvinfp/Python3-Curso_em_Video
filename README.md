@@ -53,17 +53,22 @@ Utiliza-se de didática gamificada e até o momento o curso é composto por 3 'M
 - Exercício Python #035 - [Analisando triângulo v1.0](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex035.py)
 
 #### 📚 Adicionando cores ao Python (Padrão ANSI)
+- Exercício Python #001 - [Deixando tudo pronto](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/adicionando_cores_ao_python/ex001.py)
+- Exercício Python #002 - [Respondendo ao usuário](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/adicionando_cores_ao_python/ex002.py)
+- Exercício Python #003 - [Somando dois números](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/adicionando_cores_ao_python/ex003.py)
+- Exercício Python #004 - [Dissecando uma variável](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/adicionando_cores_ao_python/ex004.py)
+- Exercício Python #005 - [Antecessor e sucessor](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/adicionando_cores_ao_python/ex005.py)
 
 ### [🌍 Mundo 2](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
 
 #### 📚 Introdução ao Mundo 2
 
 #### 📚 Condições em Python (if..elif)
-- Exercício Python #036 - [Aprovando empréstimo]()
-- Exercício Python #037 - [Conversor de bases numéricas]()
-- Exercício Python #038 - [Comparando números]()
-- Exercício Python #039 - [Alistamento militar]()
-- Exercício Python #040 - [Aquele clássico da média]()
+- Exercício Python #036 - [Aprovando empréstimo](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex036.py)
+- Exercício Python #037 - [Conversor de bases numéricas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex037.py)
+- Exercício Python #038 - [Comparando números](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex038.py)
+- Exercício Python #039 - [Alistamento militar](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex039.py)
+- Exercício Python #040 - [Aquele clássico da média](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex040.py)
 - Exercício Python #041 - [Classificando atletas]()
 - Exercício Python #042 - [Analisando triângulos v2.0]()
 - Exercício Python #043 - [Índice de Massa Corporal]()
