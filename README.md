@@ -64,11 +64,11 @@ Utiliza-se de didática gamificada e até o momento o curso é composto por 3 'M
 #### 📚 Introdução ao Mundo 2
 
 #### 📚 Condições em Python (if..elif)
-- Exercício Python #036 - [Aprovando empréstimo](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex036.py)
-- Exercício Python #037 - [Conversor de bases numéricas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex037.py)
-- Exercício Python #038 - [Comparando números](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex038.py)
-- Exercício Python #039 - [Alistamento militar](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex039.py)
-- Exercício Python #040 - [Aquele clássico da média](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-1/ex040.py)
+- Exercício Python #036 - [Aprovando empréstimo](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-2/ex036.py)
+- Exercício Python #037 - [Conversor de bases numéricas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-2/ex037.py)
+- Exercício Python #038 - [Comparando números](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-2/ex038.py)
+- Exercício Python #039 - [Alistamento militar](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-2/ex039.py)
+- Exercício Python #040 - [Aquele clássico da média](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-2/ex040.py)
 - Exercício Python #041 - [Classificando atletas]()
 - Exercício Python #042 - [Analisando triângulos v2.0]()
 - Exercício Python #043 - [Índice de Massa Corporal]()
