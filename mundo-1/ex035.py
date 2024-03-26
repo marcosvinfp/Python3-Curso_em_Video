@@ -1,5 +1,5 @@
 print('-=-' * 20)
-print('Analisador de Triângulos'.center(60))
+print('Analisador de Triângulos v1.0'.center(60))
 print('-=-' * 20)
 
 segmento1 = float(input('Primeiro segmento: '))
