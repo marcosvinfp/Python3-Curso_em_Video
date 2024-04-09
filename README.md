@@ -108,22 +108,20 @@ Utiliza-se de didática gamificada e até o momento o curso é composto por 3 'M
 ### [🌍 Mundo 3](https://www.cursoemvideo.com/curso/python-3-mundo-3/)
 
 #### 📚 Tuplas em Python
-- Exercício Python #072 - [Número por extenso]()
-- Exercício Python #073 - [Tuplas com times de futebol]()
-- Exercício Python #074 - [Maior e menor valores em tupla]()
-- Exercício Python #075 - [Análise de dados em uma tupla]()
-- Exercício Python #076 - [Lista de preços com tupla]()
-- Exercício Python #077 - [Contando vogais em tupla]()
+- Exercício Python #072 - [Número por extenso](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex072.py)
+- Exercício Python #073 - [Tuplas com times de futebol](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex073.py)
+- Exercício Python #074 - [Maior e menor valores em tupla](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex074.py)
+- Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex075.py)
+- Exercício Python #076 - [Lista de preços com tupla](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex076.py)
+- Exercício Python #077 - [Contando vogais em tupla](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex077.py)
 
 #### 📚 Listas em Python - Parte 1
-- Exercício Python #078 - [Maior e menor valores na lista]()
-- Exercício Python #079 - [Valores únicos em uma lista]()
-- Exercício Python #080a - [Lista ordenada sem repetições]()
-- Exercício Python #080b - [Lista ordenada sem repetições]()
-- Exercício Python #081a - [Lista ordenada sem repetições]()
-- Exercício Python #081b - [Extraindo dados de uma lista]()
-- Exercício Python #082 - [Dividindo valores em várias listas]()
-- Exercício Python #083 - [Validando expressões matemáticas]()
+- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex078.py)
+- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex079.py)
+- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex080.py)
+- Exercício Python #081 - [Lista ordenada sem repetições](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex081.py)
+- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex082.py)
+- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex083.py)
 
 #### 📚 Listas em Python - Parte 2
 - Exercício Python #084 - [Lista composta e análise de dados]()
