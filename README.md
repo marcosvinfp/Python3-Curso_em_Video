@@ -124,12 +124,12 @@ Utiliza-se de didática gamificada e até o momento o curso é composto por 3 'M
 - Exercício Python #083 - [Validando expressões matemáticas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex083.py)
 
 #### 📚 Listas em Python - Parte 2
-- Exercício Python #084 - [Lista composta e análise de dados]()
-- Exercício Python #085 - [Listas com pares e ímpares]()
-- Exercício Python #086 - [Matrix em Python]()
-- Exercício Python #087 - [Mais sobre matriz em Python]()
-- Exercício Python #088 - [Palpites para a Mega-Sena]()
-- Exercício Python #089 - [Boletim com listas compostas]()
+- Exercício Python #084 - [Lista composta e análise de dados](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex084.py)
+- Exercício Python #085 - [Listas com pares e ímpares](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex085.py)
+- Exercício Python #086 - [Matrix em Python](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex086.py)
+- Exercício Python #087 - [Mais sobre matriz em Python](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex087.py)
+- Exercício Python #088 - [Palpites para a Mega-Sena](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex088.py)
+- Exercício Python #089 - [Boletim com listas compostas](https://github.com/marcosvinfp/Python3-Curso_em_Video/blob/main/mundo-3/ex089.py)
 
 #### 📚 Dicionários em Python
 - Exercício Python #090 - [Dicionário em Python]()
